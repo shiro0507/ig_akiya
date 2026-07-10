@@ -75,6 +75,9 @@ def create_reel_container(video_url: str, caption: str, thumb_offset: int | None
     if thumb_offset is not None:
         params["thumb_offset"] = thumb_offset
     r = requests.post(f"{IG_API}/{ACCOUNT_ID}/media", params=params)
+    if not r.ok:
+        print("Meta API error response:", r.text)  # ← これを追加
+
     r.raise_for_status()
     return r.json()["id"]
 
