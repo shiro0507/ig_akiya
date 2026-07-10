@@ -87,7 +87,7 @@ def wait_for_container(container_id: str, timeout: int = 300):
     while time.time() < deadline:
         r = requests.get(
             f"{IG_API}/{container_id}",
-            params={"fields": "status_code,status,error_message", "access_token": ACCESS_TOKEN},
+            params={"fields": "status_code,status", "access_token": ACCESS_TOKEN},
         )
         r.raise_for_status()
         data = r.json()
