@@ -27,6 +27,10 @@
     {
       "date": "2026-07-12",
       "followers_count": 0
+    },
+    {
+      "date": "2026-07-13",
+      "followers_count": 0
     }
   ],
   "17954068980190715": {
@@ -52,6 +56,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-13",
+        "views": 110,
+        "reach": 109,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -63,6 +77,32 @@
         "date": "2026-07-12",
         "views": 115,
         "reach": 102,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "date": "2026-07-13",
+        "views": 119,
+        "reach": 106,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    ]
+  },
+  "18417806995150914": {
+    "caption": "実家の相続で、仲の良かった兄弟が揉めてしまうケースは少なくあ",
+    "created_at": "2026-07-12T11:11:23+0000",
+    "history": [
+      {
+        "date": "2026-07-13",
+        "views": 91,
+        "reach": 75,
         "saved": 0,
         "total_interactions": 0,
         "likes": 0,
