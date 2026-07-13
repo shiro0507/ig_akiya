@@ -31,6 +31,10 @@
     {
       "date": "2026-07-13",
       "followers_count": 0
+    },
+    {
+      "date": "2026-07-14",
+      "followers_count": 0
     }
   ],
   "17954068980190715": {
@@ -66,6 +70,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-14",
+        "views": 110,
+        "reach": 109,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -92,6 +106,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-14",
+        "views": 119,
+        "reach": 106,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -103,6 +127,32 @@
         "date": "2026-07-13",
         "views": 91,
         "reach": 75,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "date": "2026-07-14",
+        "views": 120,
+        "reach": 104,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    ]
+  },
+  "18594269656006138": {
+    "caption": "実家の片付け、正直「甘く見ていました」😢\n\n想像していたより",
+    "created_at": "2026-07-13T12:33:09+0000",
+    "history": [
+      {
+        "date": "2026-07-14",
+        "views": 5,
+        "reach": 2,
         "saved": 0,
         "total_interactions": 0,
         "likes": 0,
