@@ -39,6 +39,10 @@
     {
       "date": "2026-07-15",
       "followers_count": 0
+    },
+    {
+      "date": "2026-07-16",
+      "followers_count": 0
     }
   ],
   "17954068980190715": {
@@ -94,6 +98,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-16",
+        "views": 111,
+        "reach": 110,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -140,6 +154,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-16",
+        "views": 120,
+        "reach": 107,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -176,6 +200,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-16",
+        "views": 121,
+        "reach": 105,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -202,6 +236,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-16",
+        "views": 161,
+        "reach": 135,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -213,6 +257,32 @@
         "date": "2026-07-15",
         "views": 74,
         "reach": 63,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "date": "2026-07-16",
+        "views": 115,
+        "reach": 105,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    ]
+  },
+  "17910515763439167": {
+    "caption": "この部屋で何度もご飯を食べた。この廊下を何度も走り回った。🏠",
+    "created_at": "2026-07-15T11:36:58+0000",
+    "history": [
+      {
+        "date": "2026-07-16",
+        "views": 128,
+        "reach": 122,
         "saved": 0,
         "total_interactions": 0,
         "likes": 0,
