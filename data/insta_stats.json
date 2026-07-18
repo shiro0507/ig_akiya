@@ -51,6 +51,10 @@
     {
       "date": "2026-07-18",
       "followers_count": 0
+    },
+    {
+      "date": "2026-07-19",
+      "followers_count": 0
     }
   ],
   "17954068980190715": {
@@ -136,6 +140,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-19",
+        "views": 111,
+        "reach": 110,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -212,6 +226,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-19",
+        "views": 120,
+        "reach": 107,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -278,6 +302,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-19",
+        "views": 121,
+        "reach": 105,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -334,6 +368,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-19",
+        "views": 161,
+        "reach": 135,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -380,6 +424,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-19",
+        "views": 115,
+        "reach": 105,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -416,6 +470,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-19",
+        "views": 129,
+        "reach": 124,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -442,6 +506,16 @@
         "likes": 1,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-19",
+        "views": 237,
+        "reach": 181,
+        "saved": 1,
+        "total_interactions": 2,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -453,6 +527,32 @@
         "date": "2026-07-18",
         "views": 5,
         "reach": 5,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "date": "2026-07-19",
+        "views": 10,
+        "reach": 10,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    ]
+  },
+  "17868990207632264": {
+    "caption": "その実家、何年空き家のままですか？🏚️\n\n去年の法改正で「管",
+    "created_at": "2026-07-18T11:05:31+0000",
+    "history": [
+      {
+        "date": "2026-07-19",
+        "views": 17,
+        "reach": 16,
         "saved": 0,
         "total_interactions": 0,
         "likes": 0,
