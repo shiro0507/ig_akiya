@@ -59,6 +59,10 @@
     {
       "date": "2026-07-20",
       "followers_count": 0
+    },
+    {
+      "date": "2026-07-21",
+      "followers_count": 0
     }
   ],
   "17954068980190715": {
@@ -164,6 +168,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-21",
+        "views": 111,
+        "reach": 110,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -260,6 +274,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-21",
+        "views": 120,
+        "reach": 107,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -346,6 +370,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-21",
+        "views": 121,
+        "reach": 105,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -422,6 +456,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-21",
+        "views": 161,
+        "reach": 135,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -488,6 +532,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-21",
+        "views": 115,
+        "reach": 105,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -544,6 +598,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-21",
+        "views": 129,
+        "reach": 124,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -590,6 +654,16 @@
         "likes": 1,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-21",
+        "views": 237,
+        "reach": 181,
+        "saved": 1,
+        "total_interactions": 2,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -626,6 +700,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-21",
+        "views": 10,
+        "reach": 10,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -652,6 +736,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-21",
+        "views": 54,
+        "reach": 54,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -666,6 +760,32 @@
         "saved": 0,
         "total_interactions": 0,
         "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "date": "2026-07-21",
+        "views": 186,
+        "reach": 148,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    ]
+  },
+  "17905541244286934": {
+    "caption": "⏰知らないと大損する「相続の期限」、ちゃんと把握できています",
+    "created_at": "2026-07-20T12:18:15+0000",
+    "history": [
+      {
+        "date": "2026-07-21",
+        "views": 63,
+        "reach": 60,
+        "saved": 0,
+        "total_interactions": 1,
+        "likes": 1,
         "comments": 0,
         "shares": 0
       }
