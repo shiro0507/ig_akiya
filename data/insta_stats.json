@@ -67,6 +67,10 @@
     {
       "date": "2026-07-22",
       "followers_count": 0
+    },
+    {
+      "date": "2026-07-23",
+      "followers_count": 0
     }
   ],
   "17954068980190715": {
@@ -192,6 +196,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 111,
+        "reach": 110,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -308,6 +322,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 120,
+        "reach": 107,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -414,6 +438,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 121,
+        "reach": 105,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -510,6 +544,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 161,
+        "reach": 135,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -596,6 +640,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 115,
+        "reach": 105,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -672,6 +726,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 129,
+        "reach": 124,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -738,6 +802,16 @@
         "likes": 1,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 237,
+        "reach": 181,
+        "saved": 1,
+        "total_interactions": 2,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -794,6 +868,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 10,
+        "reach": 10,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -840,6 +924,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 54,
+        "reach": 54,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -876,6 +970,16 @@
         "likes": 0,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 186,
+        "reach": 148,
+        "saved": 0,
+        "total_interactions": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -902,6 +1006,16 @@
         "likes": 1,
         "comments": 0,
         "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 110,
+        "reach": 103,
+        "saved": 1,
+        "total_interactions": 2,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
       }
     ]
   },
@@ -915,6 +1029,32 @@
         "reach": 99,
         "saved": 1,
         "total_interactions": 2,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      {
+        "date": "2026-07-23",
+        "views": 116,
+        "reach": 106,
+        "saved": 1,
+        "total_interactions": 2,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      }
+    ]
+  },
+  "18099372271979206": {
+    "caption": "相続でバタバタしている間に、実は「税金」の期限が迫っているこ",
+    "created_at": "2026-07-22T11:48:39+0000",
+    "history": [
+      {
+        "date": "2026-07-23",
+        "views": 2,
+        "reach": 1,
+        "saved": 0,
+        "total_interactions": 0,
         "likes": 0,
         "comments": 0,
         "shares": 0
